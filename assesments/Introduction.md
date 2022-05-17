@@ -2,10 +2,10 @@
 
 1. Building for Builders LLC manufactures equipment used in residential and commercial building. Each of its 500,000 pieces of equipment in use around the globe has IoT devices collecting data about the state of equipment. The IoT data is streamed from each device every 10 seconds. On average, 10 KB of data is sent in each message. The data will be used for predictive maintenance and product development. The company would like to use a managed service in Google Cloud. What would you recommend?
 
-- Apache Cassandra
-- Cloud Bigtable
-- BigQuery
-- Cloud SQL
+    - Apache Cassandra
+    - Cloud Bigtable
+    - BigQuery
+    - Cloud SQL
 
     <details>
         <summary>Click for Correct Answer</summary>
